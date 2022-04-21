@@ -1,3 +1,3 @@
 name='ravi'
-rno=1001
+rno=101
 city='hyderabad'
